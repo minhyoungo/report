@@ -1,0 +1,16 @@
+.head {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: larger;
+}
